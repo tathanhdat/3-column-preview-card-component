@@ -20,9 +20,7 @@ Mobile Version
 ![Mobile-Version](./Screenshot-mobile.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live site](https://tathanhdat.github.io/3-column-preview-card-component/)
 
 ### Built with
 
@@ -33,7 +31,5 @@ Mobile Version
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
+- Website - [Ta Thanh Dat](https://www.facebook.com/tathanh.dat.5/)
+- Frontend Mentor - [@Ta Thanh Dat](https://www.frontendmentor.io/profile/tathanhdat)
